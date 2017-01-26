@@ -1,5 +1,10 @@
+0.18.1 (25/3/2017)
+
+#### Fixes
+
+* [#1561](https://github.com/ruby-grape/grape/pull/1561): Fix performance issue introduced by duplicated calls in StackableValue#[] - [@brucehsu](https://github.com/brucehsu).
+
 0.18.0 (10/7/2016)
-==================
 
 #### Features
 
