@@ -1,3 +1,9 @@
+0.18.2 (16/10/2018)
+
+#### Fetures
+
+* [#1543](https://github.com/ruby-grape/grape/pull/1543): Support ruby 2.4 - [@LeFnord](https://github.com/LeFnord), [@namusyaka](https://github.com/namusyaka).
+
 0.18.1 (25/3/2017)
 
 #### Fixes
